@@ -77,9 +77,9 @@ Embark on your academic odyssey by exploring the folders aligned with your semes
 ## Contributors
 
 - Subhadeep Paul (Maintainer)
-- John Doe
-- Jane Smith
-- Alice Johnson
+- [Add your name here if you contribute!]
+- [Add your name here if you contribute!]
+- [Add your name here if you contribute!]
 
 
 
