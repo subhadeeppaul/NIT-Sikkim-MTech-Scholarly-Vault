@@ -10,33 +10,37 @@ Welcome to the knowledge vault of the future technocrats! Delve into the depths 
 
 - **Semester 1**
   - **Subjects:**
-    - AI Fundamentals
-    - Machine Learning Basics
-    - Data Structures and Algorithms for AI
+    - Advanced Data Structures and Algorithms (CS21101)
+    - Advanced Topics in Cyber Security (CS2*138)
+    - Artificial Intelligence (CS21103)
+    - Natural Language Processing (CS21115)
+    - Preprocessing and Data Mining (CS21102)
   - **Lab:**
-    - Introduction to Python and AI Tools
+    - Advanced Data Structures and Algorithms (CS21101L)
+    - Advanced Topics in Cyber Security (CS2*138L)
+    - Artificial Intelligence (CS21103L)
+    - Preprocessing and Data Mining (CS21102L)
 
 - **Semester 2**
   - **Subjects:**
-    - Advanced Machine Learning
-    - Deep Learning
-    - Natural Language Processing
+    - Machine Learning (CS22101)
+    - Nature Inspired Algorithms (CS22102)
+    - Deep Learning (CS22103)
+    
   - **Lab:**
-    - Deep Learning with TensorFlow
+    - Machine Learning (CS22101L)
+    - Nature Inspired Algorithms (CS22102L)
+    - Deep Learning (CS22103L)
 
 - **Semester 3**
   - **Subjects:**
-    - Reinforcement Learning
-    - Computer Vision
-    - Big Data Analytics
+    
   - **Lab:**
     - Computer Vision Projects
 
 - **Semester 4**
   - **Subjects:**
-    - AI Ethics and Responsible AI
-    - AI in Healthcare
-    - Project Work
+    
 
 ### Department of VLSI Design
 
